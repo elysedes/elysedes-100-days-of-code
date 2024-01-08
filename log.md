@@ -25,3 +25,27 @@ Link to progress here: https://github.com/elysedes/elyse-desrochers-bandsite/tre
 Also continued working on bandsite sprint-2. Fixed up ammended sass and began page styling for shows page.
 
 
+
+### Day 3: January 5, 2024
+
+**Today's Progress**: Learned about APIs in JavaScript. Worked on bandsite for brainstation bootcamp.
+
+
+
+### Day 4: January 6, 2024
+
+**Today's Progress**: Worked on getting comment submission form working on bandsite - used DOM in JavaScript to achieve submission form. Struggled and then succeeded on getting comments to sit on top using unShift
+
+
+
+### Day 5: January 7, 2024
+
+**Today's Progress**: Finished setting up shows list in JavaScript using DOM on the bandsite project. Styled for mobile, tablet, and desktop and submitted project to BrainStation.
+
+Link to progress here: https://github.com/elysedes/elyse-desrochers-bandsite/tree/sprint-2
+
+
+
+### Day 6: January 8, 2024
+
+**Today's Progress**: Lecture and lab on Classes and Object Oriented Programming (OOP). 
