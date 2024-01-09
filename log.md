@@ -48,4 +48,4 @@ Link to progress here: https://github.com/elysedes/elyse-desrochers-bandsite/tre
 
 ### Day 6: January 8, 2024
 
-**Today's Progress**: Lecture and lab on Classes and Object Oriented Programming (OOP). 
+**Today's Progress**: Lecture and lab on Classes and Object Oriented Programming (OOP). Introduction on bandsite sprint-3. Creating new branch for sprint-3 and getting initial files set up
