@@ -49,3 +49,21 @@ Link to progress here: https://github.com/elysedes/elyse-desrochers-bandsite/tre
 ### Day 6: January 8, 2024
 
 **Today's Progress**: Lecture and lab on Classes and Object Oriented Programming (OOP). Introduction on bandsite sprint-3. Creating new branch for sprint-3 and getting initial files set up
+
+
+
+### Day 7: January 9, 2024
+
+**Today's Progress**: Worked on bandsite. Struggled a bit with the API integration. Learned about Promises and AI technologies in class.
+
+
+
+### Day 8: January 10, 2024
+
+**Today's Progress**: Got the API functioning and posting comments to the site. Read up more on GET requests in JavaScript and learned about Modern JavaScript features and Whiteboarding for interviews.
+
+
+
+### Day 9: January 11, 2024
+
+**Today's Progress**: Building components in JavaScript and intro to React. Began a "Hackathon" project with other students. We are building a web app using the Pokemon API. Set up files and shared folder in VSCode for collaborative work. Setting up base HTML data.
